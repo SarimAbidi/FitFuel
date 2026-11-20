@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+*.tmp
+/data/private/
+/data/cache/
+/data/processed/
+/outputs/
+/.vscode/
+/run-fitfuel.cmd
+*.zip
