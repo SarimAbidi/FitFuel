@@ -1,0 +1,27 @@
+{
+  "source": "USDA National Nutrient Database for Standard Reference, Legacy Release (2018)",
+  "url": "https://www.ars.usda.gov/ARSUserFiles/80400525/Data/SR-Legacy/SR-Leg_ASC.zip",
+  "doi": "https://doi.org/10.15482/USDA.ADC/1529216",
+  "source_archive_sha256": "79705f75a7306d0910ad16dd4d66a5caf602dad528b99b77c7a510bfaf3d6e14",
+  "food_rows": 2646,
+  "units": "kcal and grams per 100 g edible portion",
+  "group_mapping": {
+    "0100": "Dairy and eggs",
+    "0500": "Poultry",
+    "0800": "Grains and cereals",
+    "0900": "Fruit",
+    "1100": "Vegetables",
+    "1200": "Nuts and seeds",
+    "1600": "Legumes",
+    "2000": "Grains and cereals"
+  },
+  "nutrient_mapping": {
+    "208": "calories",
+    "203": "protein",
+    "205": "carbs",
+    "204": "fat",
+    "291": "fibre",
+    "269": "sugar"
+  },
+  "missing_values": "Preserved as empty fields; no invented nutrient values."
+}

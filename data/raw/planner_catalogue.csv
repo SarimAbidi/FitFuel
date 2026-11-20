@@ -1,0 +1,131 @@
+food_id,name,vegetarian,starter_role
+01079,"Milk, 2% fat",True,dairy
+01116,Plain whole-milk yogurt,True,dairy
+01256,"Plain Greek yogurt, nonfat",True,dairy
+01129,Hard-boiled egg,False,manual
+05064,"Roasted chicken breast, skinless",False,protein
+08121,"Oatmeal, cooked with water, unsalted",True,breakfast_grain
+09003,"Apple, with skin",True,fruit
+09040,Banana,True,fruit
+09050,Blueberries,True,fruit
+09132,Grapes,True,fruit
+09148,Kiwi,True,fruit
+09176,Mango,True,fruit
+09184,Honeydew melon,True,fruit
+09200,Orange,True,fruit
+09316,Strawberries,True,fruit
+09326,Watermelon,True,fruit
+09421,Medjool dates,True,manual
+11091,"Broccoli, boiled, unsalted",True,vegetable
+11124,"Carrot, raw",True,vegetable
+11135,"Cauliflower, raw",True,vegetable
+11168,"Sweet corn, boiled, unsalted",True,starch
+11205,"Cucumber, with peel",True,vegetable
+11251,"Romaine lettuce, raw",True,vegetable
+11305,"Green peas, boiled, unsalted",True,starch
+11365,"Potato, boiled flesh, unsalted",True,starch
+11458,"Spinach, boiled, unsalted",True,vegetable
+11508,"Sweet potato, baked flesh, unsalted",True,starch
+11529,"Tomato, raw",True,vegetable
+12014,Dried pumpkin seed kernels,True,fat
+12036,Dried sunflower seed kernels,True,fat
+12061,Almonds,True,fat
+12155,Walnuts,True,fat
+16015,"Black beans, boiled, unsalted",True,protein
+16028,"Kidney beans, boiled, unsalted",True,protein
+16057,"Chickpeas, boiled, unsalted",True,protein
+16070,"Lentils, boiled, unsalted",True,protein
+16098,"Smooth peanut butter, salted",True,fat
+16126,Firm tofu,True,protein
+20037,"Brown rice, cooked",True,starch
+20045,"White rice, cooked",True,starch
+20121,"Pasta, cooked, unsalted",True,starch
+20137,"Quinoa, cooked",True,starch
+01077,"Whole milk",True,dairy
+01082,"Milk, 1% fat",True,dairy
+01085,"Skim milk",True,dairy
+01015,"Cottage cheese, 2% fat",True,dairy
+01009,"Cheddar cheese",False,manual
+01026,"Whole-milk mozzarella",False,manual
+01117,"Plain low-fat yogurt",True,dairy
+01287,"Plain low-fat Greek yogurt",True,dairy
+01293,"Plain whole-milk Greek yogurt",True,dairy
+01131,"Poached egg",False,manual
+01132,"Scrambled egg",False,manual
+05065,"Stewed chicken breast, skinless",False,protein
+05069,"Roasted chicken drumstick, meat and skin",False,protein
+05098,"Roasted chicken thigh, skinless",False,protein
+05333,"Ground chicken, pan-browned",False,protein
+05747,"Grilled chicken breast, skinless",False,protein
+05220,"Roasted turkey breast, skinless",False,protein
+05306,"Ground turkey, cooked",False,protein
+08120,"Rolled oats, dry",True,manual
+08123,"Plain instant oatmeal, cooked with water",True,breakfast_grain
+09021,"Apricot, raw",True,fruit
+09032,"Dried apricots",True,manual
+09037,"Avocado, raw",True,manual
+09042,"Blackberries",True,fruit
+09070,"Sweet cherries, raw",True,fruit
+09089,"Fresh figs",True,fruit
+09139,"Guava, raw",True,fruit
+09150,"Lemon, raw, peeled",True,manual
+09191,"Nectarine, raw",True,fruit
+09218,"Mandarin orange",True,fruit
+09226,"Papaya, raw",True,fruit
+09236,"Yellow peach, raw",True,fruit
+09252,"Pear, raw",True,fruit
+09266,"Pineapple, raw",True,fruit
+09279,"Plum, raw",True,fruit
+09286,"Pomegranate, raw",True,fruit
+09291,"Prunes, dried",True,manual
+09302,"Raspberries",True,fruit
+09433,"Clementine, raw",True,fruit
+11008,"Artichoke, boiled, unsalted",True,vegetable
+11012,"Asparagus, boiled",True,vegetable
+11044,"Mung bean sprouts, boiled, unsalted",True,vegetable
+11053,"Green beans, boiled, unsalted",True,vegetable
+11081,"Beetroot, boiled",True,vegetable
+11099,"Brussels sprouts, boiled, unsalted",True,vegetable
+11110,"Green cabbage, boiled, unsalted",True,vegetable
+11117,"Bok choy, boiled, unsalted",True,vegetable
+11143,"Celery, raw",True,vegetable
+11210,"Eggplant, boiled, unsalted",True,vegetable
+11212,"Edamame, cooked from frozen",True,protein
+11234,"Kale, boiled, unsalted",True,vegetable
+11261,"White mushrooms, boiled, unsalted",True,vegetable
+11279,"Okra, boiled, unsalted",True,vegetable
+11282,"Onion, raw",True,manual
+11333,"Green bell pepper, raw",True,vegetable
+11423,"Pumpkin, boiled, unsalted",True,vegetable
+11429,"Radish, raw",True,vegetable
+11478,"Zucchini, boiled, unsalted",True,vegetable
+11486,"Butternut squash, baked, unsalted",True,vegetable
+11602,"Yam, cooked, unsalted",True,starch
+11821,"Red bell pepper, raw",True,vegetable
+11959,"Arugula, raw",True,vegetable
+12029,"Sesame seed kernels, toasted, unsalted",True,fat
+12085,"Cashews, dry-roasted, unsalted",True,fat
+12122,"Hazelnuts, dry-roasted, unsalted",True,fat
+12143,"Pecans, dry-roasted, unsalted",True,fat
+12152,"Pistachios, dry-roasted, unsalted",True,fat
+12166,"Tahini, roasted sesame",True,fat
+12220,"Flaxseed",True,manual
+16038,"Navy beans, boiled, unsalted",True,protein
+16041,"Pink beans, boiled, unsalted",True,protein
+16043,"Pinto beans, boiled, unsalted",True,protein
+16050,"White beans, boiled, unsalted",True,protein
+16063,"Black-eyed peas, boiled, unsalted",True,protein
+16081,"Mung beans (moong dal), boiled, unsalted",True,protein
+16109,"Soybeans, boiled, unsalted",True,protein
+16127,"Soft tofu",True,protein
+16137,"Hummus, homemade",True,manual
+16159,"Extra-firm tofu",True,protein
+16222,"Unsweetened fortified soy milk",True,dairy
+16390,"Peanuts, dry-roasted, unsalted",True,fat
+20006,"Pearled barley, cooked",True,starch
+20010,"Buckwheat groats, roasted and cooked",True,starch
+20013,"Bulgur, cooked",True,starch
+20029,"Couscous, cooked",True,starch
+20032,"Millet, cooked",True,starch
+20055,"Sticky white rice, cooked",True,starch
+20089,"Wild rice, cooked",True,starch
