@@ -74,4 +74,3 @@ FitFuel is an educational project. Calorie and macronutrient targets are estimat
 | Shayan Fatima | Data preparation, NLP, and text classification |
 | Hania Waqar | Food API, offline cache, analytics, charts, and verification |
 
-AI assistance was used for implementation, verification, and documentation.
